@@ -16,5 +16,8 @@ class hello
 		str = "this is the second method";
 		System.out.println(str);
 	}
-
+	void main()
+	{
+		System.out.println("hai");
+	}
 }
