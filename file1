@@ -2,9 +2,15 @@ class hello
 {
 	public static void main(String []args)
 	{
-		System.out.println("hello world");
+		var i="Praveen";
+		System.out.println("hello world"+i);
+
 	
 	}
-
+	void metod2()
+	{
+		str = "this is the second method";
+		System.out.println(str);
+	}
 
 }
