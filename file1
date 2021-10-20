@@ -2,9 +2,13 @@ class hello
 {
 	public static void main(String []args)
 	{
+<<<<<<< HEAD
 		var i="Praveen";
 		System.out.println("hello world"+i);
 
+=======
+		System.out.println("hello world");
+>>>>>>> 3ac993cb60ec01e1409f48a21a629461e3cc524d
 	
 	}
 	void metod2()
